@@ -2,5 +2,15 @@
   "name": "Netflix Subtitles Customizer",
   "version": "1.0",
   "description": "Ever got annoyed with netflix lack of subtitle options? This extension is for you. ",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.netflix.com/*"
+      ],
+      "js": [
+        "js/netflix.js"
+      ]
+    }
+  ]
 }
