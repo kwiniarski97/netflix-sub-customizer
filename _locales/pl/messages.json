@@ -1,0 +1,17 @@
+{
+  "bracesCheckboxLabel": {
+    "message": "Włączone"
+  },
+  "yes": {
+    "message": "Tak"
+  },
+  "no": {
+    "message": "Nie"
+  },
+  "save": {
+    "message": "Zapisz"
+  },
+  "refreshPageNotice": {
+    "message": "Pomyślnie zapisano, odśwież strone"
+  }
+}
