@@ -1,0 +1,17 @@
+{
+  "bracesCheckboxLabel": {
+    "message": "Enable"
+  },
+  "yes": {
+    "message": "Yes"
+  },
+  "no": {
+    "message": "No"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "refreshPageNotice": {
+    "message": "Successfully saved, refresh page! "
+  }
+}

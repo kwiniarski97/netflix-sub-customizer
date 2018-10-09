@@ -17,7 +17,6 @@ function save() {
     function setEnableOption() {
         const radios = document.getElementsByName('toggler');
         for (let i = 0; i < radios.length; i++) {
-            console.log(radios)
             if (radios[i].checked) {
                 chrome.storage.sync.set({enabled: radios[i].value})
             }
