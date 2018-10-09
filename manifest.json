@@ -1,5 +1,6 @@
 {
   "name": "Netflix Subtitles Customizer",
+  "short_name":  "NSC",
   "version": "1.0",
   "description": "Ever got annoyed with netflix lack of subtitle options? This extension is for you. ",
   "manifest_version": 2,
